@@ -24,6 +24,7 @@ const MainCarousel = () => {
             disableButtonsControls
             autoPlay
             autoPlayInterval={1000}
+            infinite
 
         />
 
